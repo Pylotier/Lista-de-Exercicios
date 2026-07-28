@@ -1,0 +1,1 @@
+É gravado a primeira vez o uso da ROM como mascára, assim toda nova ROM sobreponda a mascára vai atuar como se fosse ROM antiga
